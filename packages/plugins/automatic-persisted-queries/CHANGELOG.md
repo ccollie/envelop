@@ -1,0 +1,1 @@
+# @envelop/automatic-persisted-operations
